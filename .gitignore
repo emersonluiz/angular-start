@@ -1,0 +1,10 @@
+/*/node_modules
+/*/typings
+
+angular2-start-aot/app/*.js
+angular2-start-aot/app/*/*.js
+angular2-start-aot/app/*.map
+angular2-start-aot/app/*/*.map
+angular2-start-aot/aot
+
+angular2-start-jit/dist
